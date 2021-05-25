@@ -6,8 +6,8 @@ As a person,
 So that I can use a good bike,
 I'd like to see if a bike is working
 
-nouns = [person, bike, docking station, person, bike, bike] 
-verbs = [use, docking, release, use, see, working]
+nouns = person, bike, docking station, person, bike, bike
+verbs = use, docking, release, use, see, working
 
 
 Objects   |  Messages
